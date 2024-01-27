@@ -2,7 +2,7 @@
 "routes": [
 {
 "src": "/(.*)",
-"dest": "http://bk.ayaka0.top/"
+"dest": "http://bk.ayaka0.top/$1"
 }
 ]
 }
