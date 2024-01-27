@@ -1,7 +1,10 @@
-{"rewrites": [
-    {
-      "source": "/https/:match/:url*",
-      "destination": "http://bk.ayaka0.top/"
-    }
-  ]
+
+{
+"redirects": [
+{
+"source": "/(.*)",
+"destination": "http://bk.ayaka0.top/",
+"statusCode": 301
+}
+]
 }
