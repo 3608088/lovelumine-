@@ -1,6 +1,6 @@
 {"rewrites": [
     {
-      "source": "/(.*)",
+      "source": "/https/:match/:url*",
       "destination": "http://bk.ayaka0.top/"
     }
   ]
