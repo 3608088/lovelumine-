@@ -1,10 +1,8 @@
-
 {
-"redirects": [
+"routes": [
 {
-"source": "/(.*)",
-"destination": "http://bk.ayaka0.top/",
-"statusCode": 301
+"src": "/(.*)",
+"dest": "http://bk.ayaka0.top/"
 }
 ]
 }
