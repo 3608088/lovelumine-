@@ -1,8 +1,8 @@
 {
 "routes": [
 {
-"src": "/(.*)",
-"dest": "http://bk.ayaka0.top/$1"
+"src": "/2023/(.*)",
+"dest": "http://bk.ayaka0.top/2023/$1"
 }
 ]
 }
