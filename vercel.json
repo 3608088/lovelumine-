@@ -1,8 +1,7 @@
-{
-"routes": [
-{
-"src": "/2023/(.*)",
-"dest": "http://bk.ayaka0.top/2023/$1"
-}
-]
+{"rewrites": [
+    {
+      "source": "/(.*)",
+      "destination": "https://archiveofourown.org/$1"
+    }
+  ]
 }
